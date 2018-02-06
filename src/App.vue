@@ -7,6 +7,7 @@
       <router-link to="/hi/hi1">-Hi页面1</router-link> |
       <router-link to="/hi/hi2">-Hi页面2</router-link>
       <router-link to="/goHome">goHome</router-link>
+      <router-link to="/count">goCount</router-link>
     </div>
     <transition name="fade" mode="out-in">
       <router-view></router-view>
